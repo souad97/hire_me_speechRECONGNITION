@@ -1,6 +1,6 @@
 # hire_me_speechRECONGNITION
 faire une assistante vocale à  l'aide de reconnaissance vocale par PYTHON 
-Note : vous pouvez changer le contenu de ce code par vos informations personnel
+Note : vous pouvez changer le contenu de ce code par vos informations personnelles
 - SOFTWARE : 
 
            - ANACONDA 
