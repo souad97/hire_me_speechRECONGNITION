@@ -14,3 +14,6 @@ Note : vous pouvez changer le contenu de ce code par vos informations personnell
           - speech_Recognition 
           - webbrowser
           - time 
+- SIMULATION : using jupyter notebook ou bien terminal 
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/D5q7bMBcI6M/0.jpg)](http://www.youtube.com/watch?v=D5q7bMBcI6M"python")  
